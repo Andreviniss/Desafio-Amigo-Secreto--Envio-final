@@ -1,5 +1,6 @@
 let nomesAmigos = [];
 let nomesSorteados = [];
+console.log('Teste do commit');
 function adicionarAmigo() {
     let nomeAmigo = document.getElementById('amigo').value;
     if (nomeAmigo === "") {
